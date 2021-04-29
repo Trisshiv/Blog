@@ -34,3 +34,17 @@
 .movie_text span {
     color: #ff7700;
 }
+.environment_li p {
+    font-size: 22px;
+    margin-top: 10px;
+}
+.environment_li img {
+    border-radius: 25px;
+}
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.environment_li {
+    margin-top: 13px;
+}
